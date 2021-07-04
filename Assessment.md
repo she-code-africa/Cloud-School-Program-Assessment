@@ -25,14 +25,14 @@ TO GET STARTED, PICK ANY OF THE FOLLOWING EXERCISES OF YOUR CHOICE (PS: We value
 - Create a branch named ``Start`` and a folder named ``docker``
 - Commit your Dockerfile and other files used in the ``docker`` folder
 - Update the Dockerfile so the webpage displays ``Welcome to SCA Cloud School Application , this is my first assessment``
-- Commit these changes to the repo into a branch called ``feature``and Merge your ``feature branch`` to the ``stable branch`` ( _do not delete the feature branch_)
+- Commit these changes to the repo into a branch called ``feature``and Merge your ``feature branch`` to the ``start branch`` ( _do not delete the feature branch_)
 - Push your final docker image to dockerhub (https://hub.docker.com/)
 - Your github repo ``Master`` branch should only have a readme file with instructions/documentaion used for your deployment and a link to your docker hub repository
 
 
 ## SUBMISSION:
 - Explain briefly  the Jenkins pipeline syntax used for defining JenkinsFile on your .mdfile on Github. Key steps we would like to see are Source(git) ----Build/package --Deploy. 
-- - Push your project to your github repo created (and dockerhub if applicable).
+- Push your project to your github repo created (and dockerhub if applicable).
 - submit your project github URL on the application form here: [www.shecodeafrica.org/events]
 
 *Good luck!*
