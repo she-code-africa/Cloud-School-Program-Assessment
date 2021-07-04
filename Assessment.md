@@ -4,7 +4,7 @@ The She Code Africa cloud School (in partnership with Deimos Cloud) is a 3months
 
 The technical assessments below provides us an idea of the learning efforts you have put in towards your learning journey for the field. Feel free to use search engines and online resources - Do not aim for perfect but a working solution.
 
-TO GET STARTED, PICK ANY OF THE FOLLOWING EXERCISES OF YOUR CHOICE (PS: We value candidates who go the extra mile in selecting and solving Exercise 2). Good luck!
+TO GET STARTED, PICK ANY OF THE FOLLOWING EXERCISES OF YOUR CHOICE. Good luck!
 
 ## EXERCISE 1:
 - Create  a cloud account with a free tier subscription (AWS or AZURE).
