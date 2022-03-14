@@ -1,6 +1,5 @@
-# Cloudeng-C2
-## She Code Africa Cloud School - Technical Assesment
-The She Code Africa cloud School (in partnership with Deimos Cloud) is a 3months cohort-style, bootcamp program specifically targeted at ladies across Africa, looking to kick off or switch careers into the Site Reliability Engineering (SRE) field. Accepted participants are paired with Cloud experts and work with a well curated learning path inclusive of tasks, projects etc to help them grow required practical skills in the field. Upon Graduation, top 4 participants are offered Intern positions and next top 2 granted full nanodegree Cloud Engineering scholarships via Udacity.
+## She Code Africa Cloud School Program- Technical Assesment
+The She Code Africa cloud School (in partnership with Deimos Cloud) is a 3months cohort-style, bootcamp program specifically targeted at ladies across Africa, looking to kick off or switch careers into the Site Reliability Engineering (SRE) field. Accepted participants are paired with Cloud experts and work with a well curated learning path inclusive of tasks, projects etc to help them grow required practical skills in the field. Top performer from the bootcamp gets awarded with a Udacity Nanodegree Scholarship to become a certifed Cloud Engineer.
 
 The technical assessments below provides us an idea of the learning efforts you have put in towards your learning journey for the field. Feel free to use search engines and online resources - Do not aim for perfect but a working solution.
 
